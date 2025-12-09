@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-    int num = 15;
-    cout << num;
+    int age = 15;
+    age = 25;
+    cout << age;
     return 0;
 }
