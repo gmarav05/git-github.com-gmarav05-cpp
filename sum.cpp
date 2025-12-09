@@ -2,10 +2,9 @@
 using namespace std;
 
 int main() {
- int a = 10;
- int b = 20;
+ int a = 10, b = 20, c = 20, d = 30;
 
- cout << a + b;
-return 0;
+ cout << a + b + c + d;
+ return 0;
 
 }
