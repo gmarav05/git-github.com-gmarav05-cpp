@@ -6,5 +6,8 @@ int main() {
     cout << boolalpha;
     cout << codingIsCool;
 
+     cout << noboolalpha;
+    cout << codingIsCool;
+
     return 0;
 }
