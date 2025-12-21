@@ -8,3 +8,5 @@ int main() {
     cout << food << "\n";
     return 0;
 }
+
+// &meal gives me the memory address of that variable on the computer memory stored.
